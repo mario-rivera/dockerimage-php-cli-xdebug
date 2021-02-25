@@ -11,6 +11,7 @@ unzip \
 libpq-dev \
 librabbitmq-dev \
 libgmp-dev \
+git \
 && rm -rf /var/lib/apt/lists/*
 
 # install php extensions
